@@ -1,0 +1,12 @@
+ECL_96_96_Transformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.31321126222610474, mae:0.40490394830703735
+
+ECL_96_192_Transformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.3151032328605652, mae:0.4079824984073639
+
+ECL_96_336_Transformer_custom_ftS_sl96_ll48_pl336_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.46628642082214355, mae:0.5005646347999573
+
+ECL_96_720_Transformer_custom_ftS_sl96_ll48_pl720_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.4843719005584717, mae:0.5215497016906738
+
